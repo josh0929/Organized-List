@@ -1,0 +1,2 @@
+# Organized-List
+A common linked list implementation with insert(), delete() methods and additional methods such as reverse() (reversing the order of the list) and isEmtpy(). The implementation has been slightly modified to accept generic nodes, in which a new object is inserted into the list in its proper position, so there is never a need to “sort” the list (whether the list is in ascending or descending order in the case that the reverse() has been invoked).
