@@ -7,7 +7,7 @@ import java.io.IOException;
  *
  * @author Joshua Suarez
  */
-public class OrderedListTester
+public class main
 {
 
 	public static void main(String[] args) throws IOException
