@@ -1,11 +1,9 @@
-package pkg1;
-
 import java.io.File;
 import java.util.Scanner;
 import java.io.IOException;
 
 /**
- * OrderedListTester will test all methods of the OrderedList class.
+ * Test all methods of the OrderedList class.
  *
  * @author Joshua Suarez
  */
