@@ -13,11 +13,8 @@ package pkg1;
  */
 public class OrderedList<E extends Comparable<E>>
 {
-
-	//instance vars
 	private Node head;
 
-	//constructor
 	public OrderedList()
 	{
 		head = null;
