@@ -1,15 +1,3 @@
-/** ***************************************************************************
- *
- * Course: COP3337 Computer Programming II
- * Instructor: Greg Shaw
- * File name: OrderedListTester.java
- * Assignment: Ordered List - Linked Lists and Generic classes
- * Panther ID: 6041323
- *
- * I affirm that this program is entirely my own work and none of it is the
- * work of any other person.
- *
- **************************************************************************** */
 package pkg1;
 
 import java.io.File;
