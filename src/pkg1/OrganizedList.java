@@ -11,7 +11,7 @@ package pkg1;
  * @author Joshua Suarez
  *
  */
-public class OrderedList<E extends Comparable<E>>
+public class OrganizedList<E extends Comparable<E>>
 {
 	private Node head;
 
